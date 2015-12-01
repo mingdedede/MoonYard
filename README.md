@@ -9,3 +9,5 @@ To create a Facebook/Instagram for pets. Owner can wagging tails about their pet
 ##Founder
 
 Minh Dang
+
+###Some changes
